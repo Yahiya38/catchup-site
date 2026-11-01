@@ -1,0 +1,9 @@
+crew-super.glb      Superintendent   generated with MakeHuman / MPFB2
+crew-pm.glb         Project manager  generated with MakeHuman / MPFB2
+crew-est.glb        Estimator        generated with MakeHuman / MPFB2
+crew-pm-office.webp Project manager's office top (recoloured MakeHuman garment)
+
+All of it: CC0 1.0 (public domain). No credit required, commercial use fine,
+and the files may be served from a public web page.
+Bodies, skins, eyes, hair and garments come from the MakeHuman system asset
+pack (CC0). Hard hats, tablet and lanyard are built in code in building.js.

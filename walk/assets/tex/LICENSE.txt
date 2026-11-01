@@ -1,0 +1,12 @@
+All textures in this folder are from ambientCG (https://ambientcg.com), released under CC0 1.0 (public domain). Resized for the web.
+ground: Ground081
+asphalt: Asphalt033
+corrugated: CorrugatedSteel007A
+concrete-wall: Concrete030
+concrete-floor: Concrete034
+concrete-slab: Concrete031
+plates: MetalPlates006
+brushed: Metal009
+carpet: Carpet016
+tiles: Tiles107
+painted: PaintedMetal004
