@@ -1,0 +1,19 @@
+{
+ "name": "CatchUp Recruiting",
+ "short_name": "CatchUp",
+ "icons": [
+  {
+   "src": "/catchup-site/apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  },
+  {
+   "src": "/catchup-site/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ],
+ "theme_color": "#12263f",
+ "background_color": "#12263f",
+ "display": "browser"
+}
